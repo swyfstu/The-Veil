@@ -1,0 +1,31 @@
+[
+    {
+        "id": "becoming_apprentice",
+        "thoughts": [
+            "Looks forward to becoming an Initiate.",
+            "Wonders what path the Veil has chosen for {PRONOUN/m_c/object}.",
+            "Can't wait to begin {PRONOUN/m_c/poss} training."
+        ],
+        "main_status_constraint": [
+            "apprentice",
+            "mediator apprentice",
+            "medicine cat apprentice"
+        ]
+    },
+
+    {
+        "id": "becoming_adult_rank",
+        "thoughts": [
+            "Hopes {PRONOUN/m_c/subject} can serve the Clan well.",
+            "Feels ready to become a Watcher.",
+            "Hopes the Veil will watch over {PRONOUN/m_c/object}."
+        ],
+        "main_status_constraint": [
+            "leader",
+            "deputy",
+            "medicine cat",
+            "mediator",
+            "warrior"
+        ]
+    }
+]

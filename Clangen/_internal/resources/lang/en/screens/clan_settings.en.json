@@ -1,0 +1,14 @@
+{
+    "en": {
+        "full_settings": "Open Game Settings",
+        "full_settings_info": "Change the overall game and audio settings",
+        "general": "general settings",
+        "general_info": "Change the general Clan-specific settings",
+        "relation": "relation settings",
+        "relation_info": "Change Clan-specific settings regarding cat relationships",
+        "role": "role settings",
+        "role_info": "Change Clan-specific settings regarding cat roles",
+        "stats": "clan stats",
+       "stats_text": "Living Cats: %{living}\nVeil Spirits: %{starclan}\nHollow Spirits: %{darkforest}\nUnknown Spirits: %{unknownresidence}\nVeilkeepers: %{medcats}\nVeilkeeper Initiates: %{medcatapps}\nWatchers: %{warriors}\nInitiates: %{apps}\nSpeakers: %{mediators}\nSpeaker Initiates: %{mediatorapps}\nKeepers: %{elders}\nCaretakers & Young: %{kits}\nForgotten Spirits: %{faded}"
+    }
+}

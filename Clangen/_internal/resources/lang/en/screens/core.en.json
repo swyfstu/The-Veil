@@ -1,0 +1,24 @@
+{
+    "en": {
+        "events": "Events",
+        "camp": "⬅┐ To Camp",
+        "header_tooltip": "return to camp",
+        "cat_list": "Cats",
+        "patrol": "Scouts",
+        "allegiances": "Clan Allegiances",
+        "settings": "Settings",
+        "clan_settings": "Clan Settings",
+        "supplies": "Supplies",
+        "freshkill": "freshkill",
+        "herbs": "herbs",
+        "dens": "Dens",
+        "warriors_den": "watchers' den",
+        "leader_den": "warden's den",
+        "medicine_cat_den": "veilkeeper den",
+        "elders_den": "keepers' den",
+        "nursery": "nursery",
+        "clearing": "clearing",
+        "apprentices_den": "initiates' den",
+        "dev_watermark": "Modded by Blair!!"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "en": {
+        "training_kit": "This cat has not yet begun their training.",
+        "training_app": "This cat has not yet completed their training.",
+        "training_mentors": {
+            "zero": "This cat either did not have a mentor, or {PRONOUN/m_c/poss} mentor is unknown.",
+            "one": "{PRONOUN/m_c/subject/CAP} {VERB/m_c/were/was} mentored by %{mentors}.",
+            "many": "{PRONOUN/m_c/subject/CAP} {VERB/m_c/were/was} mentored by %{mentors}."
+        },
+        "training_mentor_trait_influence": "%{mentor} influenced {PRONOUN/m_c/object} to be more likely to %{influence}.",
+        "training_mentor_skill_influence": "%{mentor} helped {PRONOUN/m_c/object} become better at %{influence}.",
+
+        "graduation_honor": "When {PRONOUN/m_c/subject} became a Watcher, {PRONOUN/m_c/subject} {VERB/m_c/were/was} honored for {PRONOUN/m_c/poss} %{honor}.",
+        "graduation_early": "{PRONOUN/m_c/poss/CAP} training progressed swiftly, allowing {PRONOUN/m_c/object} to become a Watcher at only %{age} moons old.",
+        "graduation_normal": "{PRONOUN/m_c/subject/CAP} became a Watcher at %{age} moons old.",
+        "graduation_late": "{PRONOUN/m_c/subject/CAP} completed {PRONOUN/m_c/poss} training at %{age} moons old.",
+
+        "mentored": "{PRONOUN/m_c/subject/CAP} trained %{apprentices}.",
+
+        "comment": "Warden Echo history strings where m_c is included.",
+
+        "leader_death_all": "lost all of {PRONOUN/m_c/poss} Echoes.",
+
+        "leader_death_cardinal": {
+            "one": "%{cardinal} Echo:",
+            "many": "%{cardinal} Echoes:"
+        },
+
+        "leader_death_many_lives": "%{first_cardinal} through %{last_cardinal} Echoes:",
+
+        "leader_lost_lives": {
+            "one": "An Echo was shattered.",
+            "many": "%{count} Echoes were shattered."
+        },
+
+        "comment_two": "Warden Echo history strings where m_c is not included.",
+
+        "n_leader_death_all": "m_c lost all of {PRONOUN/m_c/poss} Echoes.",
+
+        "n_leader_lost_lives": {
+            "one": "m_c lost an Echo.",
+            "many": "m_c lost %{count} Echoes."
+        },
+
+        "regular_death": "%{cats} died.",
+        "death_cause": "%{death} when {PRONOUN/m_c/subject} %{text}",
+
+        "murdered": "%{name} murdered %{victims}.",
+        "murder_revealed_to_clan": "The Clan knows.",
+        "murder_not_revealed_to_clan": "The Clan is unaware.",
+        "murder_revealed_to_individual": "%{name} knows.",
+
+        "leader_lives_left_df": {
+            "zero": "The Warden has no Echoes remaining and has been claimed by the Hollow.",
+            "one": "The Warden has one Echo remaining.",
+            "many": "The Warden has %{count} Echoes remaining."
+        },
+
+        "leader_lives_left_sc": {
+            "zero": "The Warden has no Echoes remaining and has passed beyond the Veil.",
+            "one": "The Warden has one Echo remaining.",
+            "many": "The Warden has %{count} Echoes remaining."
+        },
+
+        "scar_from_injury": "m_c was scarred from an injury (%{injury_name})."
+    }
+}

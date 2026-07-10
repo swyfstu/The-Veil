@@ -1,0 +1,64 @@
+{
+    "en": {
+        "starclan_default_0": "m_c breathed in deep, {PRONOUN/m_c/poss} spirit settling as {PRONOUN/m_c/subject} finally passed beyond the Veil.",
+        "starclan_default_1": "The life m_c lived led to the Veil, inevitably.",
+        "starclan_default_2": "m_c joined the remembered dead of c_n beyond the Veil, ready to watch over those who lived on.",
+        "starclan_default_3": "There was little fuss or debate. m_c's place beyond the Veil was assured.",
+        "starclan_default_4": "At the close of m_c's life, the Veil parted, and a new spirit stepped through.",
+        "starclan_default_5": "Welcomed beyond the Veil, m_c took {PRONOUN/m_c/poss} place among the remembered ancestors.",
+        "starclan_default_6": "m_c's spirit was wrapped in pale light, gently carried away from the struggles of the living and into the rest beyond the Veil.",
+        "starclan_default_7": "The Veil opened at once to offer m_c a place among the remembered.",
+        "starclan_default_8": "After a lifetime of service, m_c was welcomed beyond the Veil for the rest {PRONOUN/m_c/poss} soul needed.",
+
+        "starclan_rejected_0": "No matter how far m_c chased the pale light, all {PRONOUN/m_c/subject} found was the Hollow.",
+        "starclan_rejected_1": "m_c knew where {PRONOUN/m_c/subject} {VERB/m_c/were/was} headed when {PRONOUN/m_c/poss} eyes closed for the final time, yet the Hollow still frightened {PRONOUN/m_c/object}.",
+        "starclan_rejected_2": "m_c wondered if {PRONOUN/m_c/subject}'d see {PRONOUN/m_c/poss} kin again as {PRONOUN/m_c/subject} woke in the Hollow, pondering if {PRONOUN/m_c/subject} {VERB/m_c/were/was} the only one there.",
+        "starclan_rejected_3": "The Veil drew closed before m_c. It had no desire to allow {PRONOUN/m_c/object} beyond.",
+        "starclan_rejected_4": "The Veil knew where m_c's morality lay. {PRONOUN/m_c/subject/CAP} did not belong among the remembered.",
+
+        "starclan_contentious_0": "m_c was untrusting of the Veil, but quickly learned to accept {PRONOUN/m_c/poss} hesitant welcoming.",
+        "starclan_contentious_1": "As m_c approached the Veil in skepticism, the spirits beyond were just as wary, though they did not refuse {PRONOUN/m_c/object}.",
+        "starclan_contentious_2": "Though m_c was accepted beyond the Veil, {PRONOUN/m_c/subject} soon found that the judgement of the remembered dead is hard to bear.",
+        "starclan_contentious_3": "Despite some very passionate protests, m_c was accepted beyond the Veil.",
+
+        "starclan_kit_0": "m_c was guided beyond the Veil, where the life denied to {PRONOUN/m_c/object} by the living world could be played out in peace as much as possible.",
+        "starclan_kit_1": "m_c's life was too short. It's not fair, but the Veil would make up for the lack as much as it could.",
+        "starclan_kit_2": "The Veil sheltered m_c, certain {PRONOUN/m_c/subject} would see {PRONOUN/m_c/poss} family again one day.",
+        "starclan_kit_3": "The Veil welcomed m_c not with debate, but with the sorrow of a life taken before it could fully flower.",
+        "starclan_kit_4": "m_c will never grow old in the living world, but beyond the Veil {PRONOUN/m_c/subject} could act out the shadows of who {PRONOUN/m_c/subject} could have been.",
+        "starclan_kit_5": "The Veil welcomed m_c, though it did not want to welcome {PRONOUN/m_c/object} so soon.",
+        "starclan_kit_6": "The spirits beyond the Veil reassured m_c that {PRONOUN/m_c/subject} would be cared for.",
+        "starclan_kit_7": "m_c had no deeds to note, no legacy to leave behind, but the Veil welcomed {PRONOUN/m_c/object} among the remembered.",
+
+        "dark_forest_default_0": "Power and authority, confidence and excitement — it had called to m_c, pulled {PRONOUN/m_c/object} like magnets in {PRONOUN/m_c/poss} blood. {PRONOUN/m_c/subject/CAP} soon walked the Hollow, raising {PRONOUN/m_c/poss} voice to call to others in turn.",
+        "dark_forest_default_1": "m_c's spirit lay in the endless solitude of the Hollow, {PRONOUN/m_c/poss} soul watching the Veil in envy.",
+        "dark_forest_default_2": "The shadows of the Hollow hid nothing from m_c, who stepped down its path with eyes open and tail held high.",
+        "dark_forest_default_3": "m_c's spirit woke in the Hollow upon death.",
+        "dark_forest_default_4": "The gnarled branches, the thick silence, the shadowed murk — it suited m_c far better than the Veil ever could.",
+        "dark_forest_default_5": "m_c slipped into the Hollow the way a stream joined a river, seamlessly and completely.",
+        "dark_forest_default_6": "The stories told, the legacy made, the legend left behind — all of that mattered to m_c far more than the Hollow that greeted {PRONOUN/m_c/poss} spirit at death.",
+        "dark_forest_default_7": "The cold loam of the Hollow filled m_c's nose upon waking. Even before opening {PRONOUN/m_c/poss} eyes, {PRONOUN/m_c/subject} knew where {PRONOUN/m_c/poss} affinity had led {PRONOUN/m_c/poss} soul.",
+
+        "dark_forest_rejected_0": "m_c was not worth investing in. The Hollow turned away from {PRONOUN/m_c/poss} spirit, leaving the weakling to be claimed by the Veil.",
+        "dark_forest_rejected_1": "Power and authority, confidence and excitement — none of that came to mind when presented with m_c. Better for the Veil to take what the Hollow did not value.",
+        "dark_forest_rejected_2": "m_c's spirit slipped from the grasping claws of the Hollow, rising toward the Veil.",
+        "dark_forest_rejected_3": "There was nothing in the Hollow that could tempt m_c, and {PRONOUN/m_c/subject} passed beyond the Veil instead.",
+        "dark_forest_rejected_4": "There is worth in scorn, and m_c was proud to be rejected by these spirits. {PRONOUN/m_c/poss/CAP} path lies beyond the Veil, not in the Hollow.",
+        "dark_forest_rejected_5": "As the life of the living ended, the life of the next world began — and m_c began {PRONOUN/m_c/inposs} by fleeing, escaping the Hollow to pass beyond the Veil.",
+        "dark_forest_rejected_6": "Not all see the value in the strength of the Hollow. It is difficult to say — did m_c escape to the Veil, or did the Hollow let {PRONOUN/m_c/object} go?",
+        "dark_forest_rejected_7": "If the denizens of the Hollow catch m_c, they will tear {PRONOUN/m_c/object} apart. But first, they have to catch {PRONOUN/m_c/object} — and m_c has already escaped beyond the Veil.",
+
+        "dark_forest_contentious_0": "The Hollow's souls whispered with uncertainty, like wind brushing through dead branches. But m_c was welcomed into its depths nonetheless.",
+        "dark_forest_contentious_1": "m_c's spirit twanged, a note out of tune with the whole. Yet in such a silent place as the Hollow, there is room for such spirits.",
+        "dark_forest_contentious_2": "Though there was the quiver of uncertainty in {PRONOUN/m_c/poss} soul, exposed and easy to see, m_c still coveted what the Hollow offered, and stepped into its depths.",
+        "dark_forest_contentious_3": "There was something in m_c worth the trouble {PRONOUN/m_c/poss} spirit was sure to bring with {PRONOUN/m_c/object}. {PRONOUN/m_c/subject/CAP} {VERB/m_c/were/was} welcomed into the Hollow.",
+        "dark_forest_contentious_4": "The Hollow called to m_c. Not overwhelmingly, not drowning out all others — but it called nonetheless, and m_c's spirit answered.",
+        "dark_forest_contentious_5": "The path to the Hollow was imprinted with the pawprints of m_c's good intentions.",
+
+        "dark_forest_kit_0": "m_c followed the well-worn paths into the dim Hollow around {PRONOUN/m_c/object} without question.",
+        "dark_forest_kit_1": "m_c reached a shadowed hollow, still and quiet. {PRONOUN/m_c/subject/CAP} hadn't seen any cat, and didn't know how {PRONOUN/m_c/subject} got so far from camp.",
+        "dark_forest_kit_2": "The wind rustled through the trees, shadows tangling on the ground, and m_c stepped into an afterlife peaceful, still, and quiet.",
+        "dark_forest_kit_3": "The new world was damp and dark, but not unwelcoming to m_c.",
+        "dark_forest_kit_4": "m_c wandered the Hollow, a little confused, but mostly curious."
+    }
+}

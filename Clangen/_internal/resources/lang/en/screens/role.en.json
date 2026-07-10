@@ -1,0 +1,36 @@
+{
+    "en": {
+        "promote_leader": "make warden",
+        "blurb_leader": "%{name} is the <b>Warden</b> of %{clan}Clan. The safety of the Clan has been entrusted to them beneath the watch of the Veil. The Warden is the highest authority in the Clan. They hold Clan meetings, choose mentors for new Initiates, and name new Watchers. To help them protect the Clan, the Veil has granted them nine Echoes. They typically take the suffix \"veil\".",
+
+        "promote_deputy": "make sentinel",
+        "blurb_deputy": "%{name} is %{clan}Clan's <b>Sentinel</b>. The Sentinel is second in command, just below the Warden. They advise the Warden and organize daily Scouts alongside normal Watcher duties. Typically, a Sentinel is personally appointed by the current Warden. A Sentinel succeeds the Warden if they die or retire.",
+
+        "switch_warrior": "make watcher",
+        "blurb_warrior": "%{name} is a <b>Watcher</b>. Watchers are adult cats who feed and protect their Clan. They are trained to hunt, fight, and guard their Clanmates. Watchers are essential to the survival of a Clan and usually make up the bulk of its members.",
+
+        "retire": "retire",
+        "blurb_elder": "%{name} is a <b>Keeper</b>. They have spent many moons serving their Clan and have earned a quieter life. Keepers preserve stories, wisdom, and memory for the next generation. Whether they retired due to age, injury, or choice, Keepers are held in high esteem within the Clan.",
+
+        "switch_medicine_cat": "make veilkeeper",
+        "blurb_medicine_cat": "%{name} is a <b>Veilkeeper</b>. Veilkeepers are the healers of the Clan. They treat injuries and illnesses with herbal remedies. Unlike Watchers, Veilkeepers are not expected to hunt or fight for the Clan. They also listen for signs from the Veil and help guide the Clan through uncertainty.",
+
+        "switch_mediator": "make speaker",
+        "blurb_mediator": "%{name} is a <b>Speaker</b>. Speakers help settle disagreements between Clanmates and disputes between Clans. They are valued for steady minds, careful words, and the ability to understand many sides of a conflict.",
+
+        "switch_app": "make initiate",
+        "blurb_apprentice": "%{name} is an <b>Initiate</b>, training to become a Watcher. Kits can become Initiates at six moons of age, where they learn to hunt, fight, and serve their Clan. Their training is usually entrusted to a single Watcher — their mentor.",
+
+        "switch_medcat_app": "veil init.",
+        "blurb_medcat_app": "%{name} is a <b>Veilkeeper Initiate</b>, training to become a full Veilkeeper. They learn how to heal their Clanmates, identify herbs, and listen for signs from the Veil. Veilkeeper Initiates are often chosen for their interest in healing, patience, or connection to the unseen.",
+
+        "switch_mediator_app": "speaker init.",
+        "blurb_mediator_app": "%{name} is a <b>Speaker Initiate</b>, training to become a full Speaker. Speakers help handle disagreements within the Clan and between Clans. Speaker Initiates are often chosen for their quick thinking, steady personality, and careful words.",
+
+        "blurb_kitten": "%{name} is a <b>kitten</b>. All cats below the age of six moons are considered kits. Kits are kept within camp to protect them from the dangers of the wild. Although they do not have official duties yet, they are expected to learn the stories, traditions, and ways of their Clan. Kits usually take the suffix \"-kit\".",
+
+        "blurb_newborn": "%{name} is a <b>newborn kitten</b>. Newborns are among the youngest members of the Clan and are protected carefully by their Clanmates. One day, they will grow old enough to begin training and choose their place in the Clan.",
+
+        "blurb_unknown": "%{name} has an unknown rank. I guess they want to make their own way in life!"
+    }
+}
